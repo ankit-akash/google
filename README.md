@@ -1,2 +1,2 @@
 # google
-A simple google landing page.
+* A simple google landing page.
